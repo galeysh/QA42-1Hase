@@ -13,5 +13,7 @@ import java.util.List;
 @Builder
 
 public class AllContactsDto {
+
     private List<ContactDto> contacts;
+
 }
