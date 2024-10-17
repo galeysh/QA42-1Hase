@@ -14,4 +14,5 @@ import java.util.List;
 
 public class AllContactsDto {
     private List<ContactDto> contacts;
+
 }
